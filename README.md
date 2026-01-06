@@ -291,7 +291,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/nikhilsutar8
 
 ## 📞 Contact
 For any questions or support, please contact:
-- [**NIYIBIZI Elysée**] [Github](https://github.com/nikhilsutar81) | [Linkedin](https://www.linkedin.com/in/nikhil-sutar-25a7702b2/)
+- [**Nikhil Sutar**] [Github](https://github.com/nikhilsutar81) | [Linkedin](https://www.linkedin.com/in/nikhil-sutar-25a7702b2/)
 - **Email**: <nikhilsutar81@gmail.com>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-sutar-25a7702b2/) [![pH-7](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhilsutar81)
@@ -302,7 +302,7 @@ For any questions or support, please contact:
 
 **QuickChat** - Where conversations happen in real-time! 🚀✨
 
-**Made with ❤️ by <i>[Elysée NIYIBIZI](https://nikhilsutar81.github.io/Nikhil_Portfolio/)</i>**
+**Made with ❤️ by <i>[Nikhil Sutar](https://nikhilsutar81.github.io/Nikhil_Portfolio/)</i>**
 
 [⬆ Back to Top](#table-of-contents)
 
